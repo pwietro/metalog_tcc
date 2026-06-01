@@ -25,8 +25,8 @@
 
 ### ⟡ sobre o projeto
 
-A **Metalog** é uma plataforma web voltada para empresas que trabalham com produtos metalúrgicos.
-O sistema centraliza o controle de estoque, movimentações, lotes, projetos e financeiro em um só lugar.
+a **metalog** é uma plataforma web voltada para empresas que trabalham com produtos metalúrgicos.
+o sistema centraliza o controle de estoque, movimentações, lotes, projetos e financeiro em um só lugar.
 
 ---
 
@@ -67,16 +67,16 @@ cd metalog/projeto
 
 **2. abra no navegador**
 
-> O projeto é estático — basta abrir o arquivo `index.html` diretamente no navegador.
+> o projeto é estático — basta abrir o arquivo `index.html` diretamente no navegador.
 
 ```bash
 # ou via extensão Live Server no VS Code
 # clique com botão direito em index.html → "Open with Live Server"
 ```
 
-**3. configure o Firebase** *(opcional para funcionalidades completas)*
+**3. configure o firebase** *(opcional para funcionalidades completas)*
 
-Edite o arquivo `static/js/auth.js` com as credenciais do seu projeto Firebase:
+edite o arquivo `static/js/auth.js` com as credenciais do seu projeto firebase:
 
 ```js
 const firebaseConfig = {
@@ -114,7 +114,5 @@ metalog/
 <div align="center">
 
 ⋆˙⟡ ·˚ ⋆ 
-
-
 
 </div>
